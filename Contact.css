@@ -1,0 +1,44 @@
+#Picture{
+    width: 700px;
+    height: 400px;
+    background-color: rgb(129, 134, 138);
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
+#adress{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 60px;
+}
+
+#Call{
+    text-align: center;
+    color: white;font-size: 25px;
+    margin-top: 30px;
+}
+
+#email{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+#formbox{
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    margin-left: 750px;
+    margin-top: -700px;
+    background-color: rgb(129, 134, 138);
+    border-radius: 25px;
+
+    
+}
+
+#roww{
+    padding: 30px;
+}
